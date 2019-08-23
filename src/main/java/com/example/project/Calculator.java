@@ -17,15 +17,15 @@ public class Calculator {
 		//return -1111;
 	}
 	public double sub(double a, double b) {
-		//return a - b;
-		return -1111;
+		return a - b;
+		//return -1111;
 	}
 	public double mult(double a, double b) {
-		//return a * b;
-		return -1111;
+		return a * b;
+		//return -1111;
 	}
 	public double div(double a, double b) {
-		//return a / b;
-		return -1111;
+		return a / b;
+		//return -1111;
 	}	
 }
